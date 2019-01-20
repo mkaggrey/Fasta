@@ -48,9 +48,3 @@ plt.xlabel("Iteration")
 plt.ylabel("Residual")
 
 plt.savefig("nnf_run.png", bbox_inches='tight')
-
-
-
-
-
-

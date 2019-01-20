@@ -423,12 +423,3 @@ class Fasta:
             else:
                 gradf1 = At(gradf(d1))
                 tau1 = tau0
-
-
-
-
-
-
-
-
-
